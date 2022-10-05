@@ -1,8 +1,10 @@
 # **Analysis-of-2022-World-Population**
 | ![The Globe](https://github.com/Ben-Joan/Analysis-of-2022-World-Population/blob/main/_.jpeg) | 
 |:------------------------------------------------------------------------------------------------------------------:| 
-| **The World Globe** 
+| **The World Globe**           |
+
 The current US Census Bureau world population estimate in June 2019 shows that the current global population is 7,577,130,400 people on earth, which far exceeds the world population of 7.2 billion in 2015. Our own estimate based on UN data shows the world's population surpassing 7.7 billion.
+
 China is the most populous country in the world with a population exceeding 1.4 billion. It is one of just two countries with a population of more than 1 billion, with India being the second. As of 2018, India has a population of over 1.355 billion people, and its population growth is expected to continue through at least 2050. By the year 2030, the country of India is expected to become the most populous country in the world. This is because India's population will grow, while China is projected to see a loss in population. [Article](https://worldpopulationreview.com/)
 
 ## **THE TASK**
@@ -24,7 +26,7 @@ The major questions which led me to perform this analysis include:
 ## **MY APPROACH**
 |  ![project steps](https://github.com/Ben-Joan/Analysis-of-2022-World-Population/blob/main/WP%20Approach.png)  | 
 |:------------------------------------------------------------------------------------------------------------------------:| 
-|               **Project Steps. ** _Designed by Ben Joan in PowerPoint_   
+|               **Project Steps.** _Designed by Ben Joan in PowerPoint_                           |
 
 ## **THE PROBLEM**
 Firstly, my primary aim was to learn how database can be connected to a BI tool [power BI]. To achieve this, i needed a dataset so i decided to look for something not too complex that's why i settled for the population dataseton [kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset).
@@ -59,12 +61,13 @@ After exploring the data in SQL, i connected the dataset to power bi using the i
 Honestly, storytelling isn't one of my strong points so i had to do alot of experimentations,rearrangements and formatting before coming up with the dashboard below;
 | ![dashboard](https://github.com/Ben-Joan/Analysis-of-2022-World-Population/blob/main/World%20Population_page-0001.jpg)  | 
 |:-----------------------------------------------------------------------------------------------------------------------:| 
-|                     **World population  Dashboard** _Designed by Ben Joan with Power BI_                      |
+|                     **World population Dashboard** _Designed by Ben Joan with Power BI_                      |
 
 ---
 
 ## **INSIGHTS**
 Here is the highlight of the insights from the analysis:
+
 a)By the year 2022, the world has a total population of 7.97 billion people, of which 52% of this people live in the top seven countries i.e China, India, USA, Indonesia, pakistan, Nigeria, Brazil and the other 48% is distributed among the other countries.(this was quite the shocking for me from this analysis).
 
 b) Though the population of Asia alone make up 59% of the world's population and growth rate of 50.5%, Africa still have the highest growth rate of 58.2% out of the 7 continents
