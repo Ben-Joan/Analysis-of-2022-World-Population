@@ -48,7 +48,7 @@ To analyze and query the data thereby answering all outlined questions, i made u
 |:---------------------------------------------------------------------------------------------------------------------:| 
 |                                                   **Checking for duplicate in SQL**                                                    |
 
-Other queries can be found on [my github]()
+Other queries can be found on [my github](https://github.com/Ben-Joan/Analysis-of-2022-World-Population/blob/main/Population.sql)
 
 ## **VISUALIZATION**
 After exploring the data in SQL, i connected the dataset to power bi using the import query method.
