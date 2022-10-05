@@ -37,16 +37,16 @@ Collecting and importing the data to a database was next. I familiarized myself 
 Identifying the primary key, checking for duplicates and null values, renaming the column head to a more SQL favoured format as well as removing some not required columns with the aid of SQL before importing into power BI.
 
 
-| ![checking for duplicate]()  | 
+| ![checking for duplicate](https://github.com/Ben-Joan/Analysis-of-2022-World-Population/blob/main/Screenshot%20(165).png)  | 
 |:---------------------------------------------------------------------------------------------------------------------:| 
 |                                                   **Checking for duplicate in SQL**                                                    |
 
 ## **ANALYZE**
 To analyze and query the data thereby answering all outlined questions, i made use of the Microsoft SQL server database. SQL functions like Count, Average, Group by , Top, order by, Cast,etc. were utilized. some of the queries from the analysis include;
 
-| ![sql query]()  | 
+| ![sql query](https://github.com/Ben-Joan/Analysis-of-2022-World-Population/blob/main/Screenshot%20(166).png)  | 
 |:---------------------------------------------------------------------------------------------------------------------:| 
-|                                                   **Checking for duplicate in SQL**                                                    |
+|                                                   **Overall continent statistics**                                                    |
 
 Other queries can be found on [my github](https://github.com/Ben-Joan/Analysis-of-2022-World-Population/blob/main/Population.sql)
 
