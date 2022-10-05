@@ -52,7 +52,7 @@ Other queries can be found on [my github](https://github.com/Ben-Joan/Analysis-o
 
 ## **VISUALIZATION**
 After exploring the data in SQL, i connected the dataset to power bi using the import query method.
-| ![power BI import](https://user-images.githubusercontent.com/103894233/193960726-793d73a7-c83a-4534-bdb1-5e7374a74060.png)  | 
+| ![power BI import](https://github.com/Ben-Joan/Analysis-of-2022-World-Population/blob/main/Screenshot%20(170).png)  | 
 |:---------------------------------------------------------------------------------------------------------------------:| 
 |                                                   **Importing Data for visualization**                                                    |
 
